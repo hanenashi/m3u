@@ -1,1 +1,7 @@
-3.ts
+#EXTM3U
+#EXTINF:0,3.ts
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/hanenashi/m3u/main/mov/3.ts
+#EXTINF:0,3.ts
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/hanenashi/m3u/main/mov/3.ts
